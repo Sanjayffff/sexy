@@ -4,7 +4,7 @@ import requests
 import datetime
 import os
 
-bot = telebot.TeleBot('7139376005:AAGDwWFo3ZYqW6u7-K1kaimzUfQtVU-Xr6g')
+bot = telebot.TeleBot('7139376005:AAHx4d7bqIu4elo-KDfWNPyeklPEtwX46es')
 
 # Admin user IDs
 admin_id = ["912866707","992584240"]
