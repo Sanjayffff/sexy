@@ -1,0 +1,6 @@
+UserID: 912866707 | Time: 2024-07-29 01:45:13.404505 | Command: /bgmi | Target: 20.193.140.227 | Port: 8700 | Time: 80
+Username: @Sanjay_Src
+Target: 20.193.140.227
+Port: 8700
+Time: 80
+
